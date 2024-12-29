@@ -1,2 +1,2 @@
 console.log("project.js");
-console.log("Version 3 updated");
+console.log("Version 3");
