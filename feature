@@ -1,2 +1,2 @@
 feature 4
-new sub branch 2
+new sub branch 1
