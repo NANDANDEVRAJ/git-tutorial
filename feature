@@ -1,2 +1,2 @@
 feature 4
-conflict 1
+conflict 2
